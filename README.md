@@ -40,11 +40,13 @@ I structured my work as a sequence of problem-solving steps:
 
 **HR Analytic Dashboard**
 
-![image.png](attachment:5bdb9832-c32d-4459-aa53-9dcf3e70b5c0:image.png)
+<img width="1008" height="715" alt="image" src="https://github.com/user-attachments/assets/7bca269d-5af1-4a5e-8a55-28f8d5230b30" />
+
 
 **Diversity and turnover analysis**
 
-![image.png](attachment:31674fa6-e861-435c-ade1-4d59e76de72d:image.png)
+<img width="1010" height="716" alt="image" src="https://github.com/user-attachments/assets/010325ea-cffe-461d-8e63-1f6e18dd6e4c" />
+
 
 # **End Results and Recommendations**
 
